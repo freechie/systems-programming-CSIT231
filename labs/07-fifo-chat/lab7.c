@@ -1,5 +1,3 @@
-// Richie Molina and Chris Rojas worked on this together as a group.
-
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
