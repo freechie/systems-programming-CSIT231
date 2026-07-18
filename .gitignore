@@ -1,0 +1,22 @@
+.DS_Store
+
+# Build output
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+*.out
+*.exe
+
+# Runtime artifacts
+core
+core.*
+*.log
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*accessKeys*.csv
