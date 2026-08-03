@@ -10,6 +10,13 @@ bin/
 *.out
 *.exe
 
+# Locally compiled lab programs (extensionless Unix executables)
+/labs/*/lab[0-9]
+/labs/*/client
+/labs/*/server
+/labs/*/hundred
+/labs/*/racer
+
 # Runtime artifacts
 core
 core.*
